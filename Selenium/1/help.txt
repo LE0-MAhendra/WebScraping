@@ -1,0 +1,29 @@
+element = driver.find_element(By.ID, "passwd-id")
+element = driver.find_element(By.NAME, "passwd")
+element = driver.find_element(By.XPATH, "//input[@id='passwd-id']")
+element = driver.find_element(By.CSS_SELECTOR, "input#passwd-id")
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+import time
+
+website = "https://www.adamchoi.co.uk/overs/detailed"
+driver = webdriver.Chrome(service=ChromeService(
+    ChromeDriverManager().install()))
+driver.get(website)
+mathes_btn = driver.find_element(
+    By.XPATH, "//label[@analytics-event='All matches']")
+mathes_btn.click()
+time.sleep(10)
+"""
+this one doesnot work because the loading of data is dynamic
+website = "https://www.adamchoi.co.uk/overs/detailed"
+driver = webdriver.Chrome(service=ChromeService(
+    ChromeDriverManager().install()))
+driver.get(website)
+mathes_btn = driver.find_element(
+    By.XPATH, "//label[@analytics-event='All matches']")
+mathes_btn.click()
+table_tr = driver.find_elements(By.XPATH, '//tr')"""

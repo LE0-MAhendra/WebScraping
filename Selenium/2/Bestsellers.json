@@ -1,0 +1,502 @@
+[
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "time": "Length: 5 hrs and 48 mins"
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "time": "Length: 5 hrs and 35 mins"
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "time": "Length: 6 hrs and 9 mins"
+    },
+    {
+        "title": "How to Talk to Anyone",
+        "author": "Leil Lowndes",
+        "time": "Length: 8 hrs and 59 mins"
+    },
+    {
+        "title": "Ikigai",
+        "author": "Héctor García",
+        "time": "Length: 3 hrs and 23 mins"
+    },
+    {
+        "title": "Let's Talk Mutual Funds",
+        "author": "Monika Halan",
+        "time": "Length: 7 hrs and 5 mins"
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "time": "Length: 15 hrs and 18 mins"
+    },
+    {
+        "title": "Karma: A Yogi’s Guide to Crafting Your Own Destiny",
+        "author": "Sadhguru",
+        "time": "Length: 8 hrs and 56 mins"
+    },
+    {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "time": "Length: 5 hrs and 17 mins"
+    },
+    {
+        "title": "The Power of Your Subconscious Mind",
+        "author": "Joseph Murphy",
+        "time": "Length: 7 hrs and 13 mins"
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "time": "Length: 20 hrs"
+    },
+    {
+        "title": "Hyperfocus",
+        "author": "Chris Bailey",
+        "time": "Length: 6 hrs and 39 mins"
+    },
+    {
+        "title": "Energize Your Mind",
+        "author": "Gaur Gopal Das",
+        "time": "Length: 10 hrs and 20 mins"
+    },
+    {
+        "title": "Can't Hurt Me",
+        "author": "David Goggins",
+        "time": "Length: 13 hrs and 37 mins"
+    },
+    {
+        "title": "Don't Believe Everything You Think",
+        "author": "Joseph Nguyen",
+        "time": "Length: 2 hrs and 16 mins"
+    },
+    {
+        "title": "The Intelligent Investor Rev Ed.",
+        "author": "Benjamin Graham",
+        "time": "Length: 17 hrs and 48 mins"
+    },
+    {
+        "title": "The 5 AM Club",
+        "author": "Robin Sharma",
+        "time": "Length: 11 hrs and 4 mins"
+    },
+    {
+        "title": "The Courage to Be Disliked ",
+        "author": "Fumitake Koga",
+        "time": "Length: 6 hrs and 50 mins"
+    },
+    {
+        "title": "The Diary of a CEO",
+        "author": "Steven Bartlett",
+        "time": "Length: 6 hrs and 45 mins"
+    },
+    {
+        "title": "The Bhagavad Gita",
+        "author": "Eknath Easwaran",
+        "time": "Length: 8 hrs and 54 mins"
+    },
+    {
+        "title": "The Hidden Hindu",
+        "author": "Akshat Gupta",
+        "time": "Length: 5 hrs and 36 mins"
+    },
+    {
+        "title": "The Almanack of Naval Ravikant",
+        "author": "Eric Jorgenson",
+        "time": "Length: 4 hrs and 53 mins"
+    },
+    {
+        "title": "Life's Amazing Secrets",
+        "author": "Gaur Gopal Das",
+        "time": "Length: 6 hrs and 25 mins"
+    },
+    {
+        "title": "The House of Doors",
+        "author": "Tan Twan Eng",
+        "time": "Length: 11 hrs and 15 mins"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "time": "Length: 4 hrs"
+    },
+    {
+        "title": "Never Split the Difference",
+        "author": "Chris Voss",
+        "time": "Length: 8 hrs and 7 mins"
+    },
+    {
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "time": "Length: 9 hrs and 52 mins"
+    },
+    {
+        "title": "Eat That Frog!",
+        "author": "Brian Tracy",
+        "time": "Length: 2 hrs and 37 mins"
+    },
+    {
+        "title": "Chanakya Neeti",
+        "author": "Acharya Chanakya",
+        "time": "Length: 5 hrs and 2 mins"
+    },
+    {
+        "title": "Mahabharat",
+        "author": "Sadhguru",
+        "time": "Length: 20 hrs and 42 mins"
+    },
+    {
+        "title": "Doglapan",
+        "author": "Ashneer Grover",
+        "time": "Length: 6 hrs and 30 mins"
+    },
+    {
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "time": "Length: 10 hrs and 15 mins"
+    },
+    {
+        "title": "Let's Talk Money",
+        "author": "Monika Halan",
+        "time": "Length: 5 hrs and 56 mins"
+    },
+    {
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "time": "Length: 4 hrs and 50 mins"
+    },
+    {
+        "title": "Master Your Emotions: A Practical Guide to Overcome Negativity and Better Manage Your Feelings",
+        "author": "Thibaut Meurisse",
+        "time": "Length: 3 hrs and 54 mins"
+    },
+    {
+        "title": "Dopamine Detox",
+        "author": "Thibaut Meurisse",
+        "time": "Length: 1 hr and 5 mins"
+    },
+    {
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "time": "Length: 7 hrs and 37 mins"
+    },
+    {
+        "title": "Start with Why",
+        "author": "Simon Sinek",
+        "time": "Length: 7 hrs and 18 mins"
+    },
+    {
+        "title": "12 Rules for Life",
+        "author": "Jordan B. Peterson",
+        "time": "Length: 15 hrs and 56 mins"
+    },
+    {
+        "title": "The Power of Unwavering Focus",
+        "author": "Dandapani",
+        "time": "Length: 9 hrs and 56 mins"
+    },
+    {
+        "title": "Autobiography of a Yogi",
+        "author": "Paramahansa Yogananda",
+        "time": "Length: 17 hrs and 50 mins"
+    },
+    {
+        "title": "$100M Leads",
+        "author": "Alex Hormozi",
+        "time": "Length: 6 hrs"
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "time": "Length: 21 hrs and 42 mins"
+    },
+    {
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "time": "Length: 16 hrs and 10 mins"
+    },
+    {
+        "title": "The Secret of Secrets",
+        "author": "Osho",
+        "time": "Length: 53 hrs and 32 mins"
+    },
+    {
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "time": "Length: 14 hrs and 53 mins"
+    },
+    {
+        "title": "Outlive",
+        "author": "Peter Attia",
+        "time": "Length: 17 hrs and 8 mins"
+    },
+    {
+        "title": "The Bee Sting",
+        "author": "Paul Murray",
+        "time": "Length: 26 hrs and 10 mins"
+    },
+    {
+        "title": "Trading in the Zone",
+        "author": "Mark Douglas",
+        "time": "Length: 7 hrs and 57 mins"
+    },
+    {
+        "title": "The Covenant of Water",
+        "author": "Abraham Verghese",
+        "time": "Length: 31 hrs and 16 mins"
+    },
+    {
+        "title": "The Immortals of Meluha",
+        "author": "Amish Tripathi",
+        "time": "Length: 11 hrs and 39 mins"
+    },
+    {
+        "title": "Think Like a Monk",
+        "author": "Jay Shetty",
+        "time": "Length: 10 hrs and 54 mins"
+    },
+    {
+        "title": "War of Lanka",
+        "author": "Amish Tripathi",
+        "time": "Length: 16 hrs and 20 mins"
+    },
+    {
+        "title": "Rich Dad Poor Dad: 20th Anniversary Edition",
+        "author": "Robert T. Kiyosaki",
+        "time": "Length: 8 hrs and 22 mins"
+    },
+    {
+        "title": "Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "time": "Length: 5 hrs and 51 mins"
+    },
+    {
+        "title": "The Personal MBA: Master the Art of Business",
+        "author": "Josh Kaufman",
+        "time": "Length: 15 hrs and 25 mins"
+    },
+    {
+        "title": "The Monk Who Sold His Ferrari",
+        "author": "Robin Sharma",
+        "time": "Length: 2 hrs and 40 mins"
+    },
+    {
+        "title": "21 Lessons for the 21st Century",
+        "author": "Yuval Noah Harari",
+        "time": "Length: 11 hrs and 41 mins"
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone, Book 1",
+        "author": "J.K. Rowling",
+        "time": "Length: 8 hrs and 25 mins"
+    },
+    {
+        "title": "The Hidden Hindu 2",
+        "author": "Akshat Gupta",
+        "time": "Length: 8 hrs and 26 mins"
+    },
+    {
+        "title": "Inglorious Empire",
+        "author": "Shashi Tharoor",
+        "time": "Length: 10 hrs and 33 mins"
+    },
+    {
+        "title": "How to Become a People Magnet",
+        "author": "Marc Reklau",
+        "time": "Length: 3 hrs and 15 mins"
+    },
+    {
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "time": "Length: 10 hrs and 53 mins"
+    },
+    {
+        "title": "The Oath of the Vayuputras (English)",
+        "author": "Amish Tripathi",
+        "time": "Length: 17 hrs and 12 mins"
+    },
+    {
+        "title": "The Secret of the Nagas",
+        "author": "Amish Tripathi",
+        "time": "Length: 10 hrs and 9 mins"
+    },
+    {
+        "title": "The Coming Wave",
+        "author": "Mustafa Suleyman",
+        "time": "Length: 11 hrs and 48 mins"
+    },
+    {
+        "title": "Rework",
+        "author": "Jason Fried",
+        "time": "Length: 2 hrs and 50 mins"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban, Book 3",
+        "author": "J.K. Rowling",
+        "time": "Length: 12 hrs and 3 mins"
+    },
+    {
+        "title": "Never Finished",
+        "author": "David Goggins",
+        "time": "Length: 11 hrs and 6 mins"
+    },
+    {
+        "title": "Mythos",
+        "author": "Stephen Fry",
+        "time": "Length: 15 hrs and 25 mins"
+    },
+    {
+        "title": "Apke Avchetan Man Ki Shakti [The Power of Your Subconscious Mind]",
+        "author": "Dr. Joseph Murphy",
+        "time": "Length: 8 hrs and 37 mins"
+    },
+    {
+        "title": "Bravehearts of Bharat",
+        "author": "Vikram Sampath",
+        "time": "Length: 11 hrs and 47 mins"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows, Book 7",
+        "author": "J.K. Rowling",
+        "time": "Length: 23 hrs and 59 mins"
+    },
+    {
+        "title": "Sita: Warrior of Mithila",
+        "author": "Amish",
+        "time": "Length: 11 hrs and 10 mins"
+    },
+    {
+        "title": "The Greatest Secret",
+        "author": "Rhonda Byrne",
+        "time": "Length: 6 hrs and 20 mins"
+    },
+    {
+        "title": "Influence",
+        "author": "Robert B. Cialdini",
+        "time": "Length: 12 hrs and 25 mins"
+    },
+    {
+        "title": "$100M Offers",
+        "author": "Alex Hormozi",
+        "time": "Length: 3 hrs and 48 mins"
+    },
+    {
+        "title": "Build the Life You Want",
+        "author": "Oprah Winfrey",
+        "time": "Length: 5 hrs and 54 mins"
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire, Book 4",
+        "author": "J.K. Rowling",
+        "time": "Length: 20 hrs and 54 mins"
+    },
+    {
+        "title": "Scion of Ikshvaku",
+        "author": "Amish",
+        "time": "Length: 11 hrs and 35 mins"
+    },
+    {
+        "title": "Men Are from Mars, Women Are from Venus",
+        "author": "John Gray",
+        "time": "Length: 9 hrs and 28 mins"
+    },
+    {
+        "title": "The Warren Buffett Way",
+        "author": "Robert Hagstrom",
+        "time": "Length: 10 hrs and 31 mins"
+    },
+    {
+        "title": "Rich Dad's Cashflow Quadrant",
+        "author": "Robert T. Kiyosaki",
+        "time": "Length: 8 hrs and 48 mins"
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets, Book 2",
+        "author": "J.K. Rowling",
+        "time": "Length: 9 hrs and 43 mins"
+    },
+    {
+        "title": "Essentialism",
+        "author": "Greg McKeown",
+        "time": "Length: 6 hrs and 14 mins"
+    },
+    {
+        "title": "Why Has Nobody Told Me This Before?",
+        "author": "Julie Smith",
+        "time": "Length: 7 hrs and 13 mins"
+    },
+    {
+        "title": "The Sandman",
+        "author": "Neil Gaiman",
+        "time": "Length: 11 hrs and 2 mins"
+    },
+    {
+        "title": "Make Time",
+        "author": "Jake Knapp",
+        "time": "Length: 4 hrs and 58 mins"
+    },
+    {
+        "title": "When Breath Becomes Air",
+        "author": "Paul Kalanithi",
+        "time": "Length: 5 hrs and 35 mins"
+    },
+    {
+        "title": "Elon Musk",
+        "author": "Ashlee Vance",
+        "time": "Length: 13 hrs and 23 mins"
+    },
+    {
+        "title": "Haunting Adeline",
+        "author": "H. D. Carlton",
+        "time": "Length: 15 hrs and 47 mins"
+    },
+    {
+        "title": "Grandparents' Bag of Stories",
+        "author": "Sudha Murty",
+        "time": "Length: 5 hrs and 5 mins"
+    },
+    {
+        "title": "Apprenticed to a Himalayan Master",
+        "author": "Sri M.",
+        "time": "Length: 10 hrs and 15 mins"
+    },
+    {
+        "title": "How to Build a Boat",
+        "author": "Elaine Feeney",
+        "time": "Length: 8 hrs and 10 mins"
+    },
+    {
+        "title": "Grit",
+        "author": "Angela Duckworth",
+        "time": "Length: 9 hrs and 21 mins"
+    },
+    {
+        "title": "The Tatas",
+        "author": "Girish Kuber",
+        "time": "Length: 9 hrs and 41 mins"
+    },
+    {
+        "title": "Ego Is the Enemy",
+        "author": "Ryan Holiday",
+        "time": "Length: 6 hrs and 56 mins"
+    },
+    {
+        "title": "The Power of Habit (Hindi Edition)",
+        "author": "Charles Duhigg",
+        "time": "Length: 13 hrs and 23 mins"
+    },
+    {
+        "title": "Ashtavakra Mahagitaa Vol. 1",
+        "author": "OSHO",
+        "time": "Length: 16 hrs and 7 mins"
+    },
+    {
+        "title": "A Spell of Good Things",
+        "author": "Ayobami Adebayo",
+        "time": "Length: 12 hrs and 38 mins"
+    }
+]
